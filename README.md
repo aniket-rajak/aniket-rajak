@@ -67,30 +67,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aniket-rajak&show_icons=true&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=aniket-rajak&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aniket-rajak&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=aniket-rajak&theme=tokyonight&no-frame=true&row=1&column=7)
-
-</div>
-
----
-
 # 🔥 Current Focus
 
 - 🚀 Building scalable web applications
